@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!</h1>
 <h3 align="center">Aspiring full-stack developer</h3>
 
-- 🌱 I’m currently learning <br/><a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
+- 🌱 I’m currently learning <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="30" height="30"/> </a>
 
 - 📫 How to reach me **imfavila@gmail.com**
 
