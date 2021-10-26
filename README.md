@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 
-- 📫 How to reach me **imfavila@gmail.com**
+- :email: How to reach me **imfavila@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
