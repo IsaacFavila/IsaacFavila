@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my GitHub!</h1>
 <h3 align="center">Aspiring full-stack developer</h3>
 
-- 🌱 I’m currently learning **Typescript**
+- 🌱 I’m currently learning **C#**
 
 
 <h3 align="left">Languages and Tools:</h3>
